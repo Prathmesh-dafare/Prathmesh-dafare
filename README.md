@@ -1,6 +1,6 @@
 # 💫 About Me:
-💻 Second-year student passionate about Web Development and Programming<br>🌱 Currently learning HTML, CSS, JavaScript, APIs, and Data Structures<br>🚀 Interested in building real-world projects and improving problem-solving skills<br>📚 Exploring software development and open-source contributions<br>⚡ Always learning something new <br>
- ![](https://komarev.com/ghpvc/?username=Prathmesh-dafare&color=blue) 
+💻 Second-year student passionate about Web Development and Programming<br>🌱 Currently learning HTML, CSS, JavaScript, APIs, and Data Structures<br>🚀 Interested in building real-world projects and improving problem-solving skills<br>📚 Exploring software development and open-source contributions<br>⚡ Always learning something new <br><br><br>
+  ![](https://komarev.com/ghpvc/?username=Prathmesh-dafare&color=blue) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prathmesh-dafare-b38561329?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/PrathameshDafare) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@PrathmeshDafare) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dafharesuresh@gmail.com) 
