@@ -2,7 +2,7 @@
  <p align="right">
   <img src="https://komarev.com/ghpvc/?username=prathmeshdafare&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
 </p>
-💻 Second-year student passionate about Web Development and Programming<br>🌱 Currently learning HTML, CSS, JavaScript, APIs, and Data Structures<br>
+💻 3rd student passionate about Web Development and Programming<br>🌱 Currently learning HTML, CSS, JavaScript, APIs, and Data Structures<br>
 🚀 Interested in building real-world projects and improving problem-solving skills<br>📚 Exploring software development and open-source contributions<br>⚡ Always learning something new <br><br><br>
 
 ## 🌐 Socials:
